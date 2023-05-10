@@ -42,4 +42,12 @@ export const styles = StyleSheet.create({
     width: '70%',
     justifyContent: 'space-around',
   },
+  numberConfirmedContainer: {
+    height: 200,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginVertical: 40,
+    marginHorizontal: 20,
+  },
+  numberConfirmed: { fontSize: 20 },
 });
